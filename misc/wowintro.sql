@@ -1,4 +1,5 @@
 -- wowintro.sql
+-- a simple function
 
 create or replace 
 function WOWINTRO
